@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Profile from "./lib/pages/profile";
+import Profile from "../lib/pages/profile";
 import './App.css';
 
 export default
